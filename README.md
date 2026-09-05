@@ -1,4 +1,4 @@
-# Hi 👋, I'm Iman Sukul
+# Hi , I am Iman Sukul
 
 ### Physics & Astronomy Student | Systems Programming | HPC | Quantum Computing
 
