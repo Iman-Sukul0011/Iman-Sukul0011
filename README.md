@@ -49,11 +49,6 @@ Student-led satellite engineering initiative focused on CanSat, CubeSat systems,
 
 **Focus:** Satellite Systems · Embedded Electronics · Telemetry · Sensors
 
-### 📡 SDR-Based Video Telemetry System
-
-Developing a real-time video telemetry system using Software-Defined Radio.
-
-**Focus:** SDR · RF Communication · Digital Modulation · MATLAB
 
 ### 🚁 Autonomous Self-Charging Drone
 
