@@ -2,13 +2,13 @@
 
 # Iman Sukul
 
-### Physics & Astronomy | Electronic Systems | Photonics & Scientific Instrumentation
+### Physics & Astronomy | Electronic Systems | Photonics & Advanced Hardware
 
 Integrated M.Sc. student in Physics & Astronomy at **NIT Rourkela** and B.S. student in Electronic Systems at **IIT Madras**.
 
-Interested in understanding, modelling and engineering physical systems through computational physics, photonics, electronic hardware and scientific instrumentation.
+Exploring the intersection of fundamental physics, photonics, electronic hardware and computational engineering, with an interest in translating physical principles into practical technologies.
 
-My work and research interests span experimental physics, embedded systems, RF engineering, semiconductor technologies and space instrumentation.
+My academic and engineering interests include experimental physics, integrated photonics, scientific instrumentation, embedded hardware, semiconductor technologies and space systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iman-Sukul0011)
@@ -20,13 +20,13 @@ My work and research interests span experimental physics, embedded systems, RF e
 
 ## Research Interests
 
-- **Integrated Photonics & Optoelectronics:** Optical waveguides, Mach–Zehnder interferometers, photonic integrated circuits and optical computing.
-- **Quantum & Condensed Matter Physics:** Quantum mechanics, lattice systems, wave dynamics and non-Hermitian physics.
-- **Scientific Instrumentation:** Experimental physics systems, measurement techniques, data acquisition and sensor technologies.
-- **Electronic & Embedded Systems:** Microcontrollers, digital electronics, hardware interfacing and system prototyping.
-- **RF Engineering & SDR:** Software-defined radio, signal processing and experimental communication systems.
-- **Semiconductor Technologies:** Semiconductor devices, fabrication processes and electronic hardware architectures.
-- **Space Technology:** Satellite systems, scientific payloads and space-based instrumentation.
+- **Integrated Photonics & Optoelectronics:** Photonic integrated circuits, optical waveguides, Mach–Zehnder interferometers, optical signal processing and hybrid optoelectronic computing.
+- **Quantum & Condensed Matter Physics:** Quantum mechanics, non-Hermitian systems, lattice models, localization and wave dynamics.
+- **Scientific Instrumentation:** Experimental physics, optical measurement systems, instrumentation electronics and data acquisition.
+- **Electronic & Embedded Systems:** Digital electronics, microcontroller architectures, hardware interfacing and embedded system development.
+- **Semiconductor Technologies:** Semiconductor physics, electronic devices, microfabrication and hardware architectures.
+- **Computational Physics:** Numerical modelling, scientific simulations, Python-based analysis and computational methods.
+- **Space & Experimental Systems:** Satellite instrumentation, scientific payloads, sensor systems and space technology.
 
 ## Technical Skills & Tools
 
@@ -53,7 +53,7 @@ My work and research interests span experimental physics, embedded systems, RF e
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=flat-square)](https://www.autodesk.com/products/fusion-360/overview)
 
-**Hardware Interfaces:** UART · SPI · I2C · LoRa · Sensor Interfacing · SDR
+**Hardware Interfaces:** UART · SPI · I2C · LoRa · Sensor Interfacing · SDR · Digital Signal Processing
 
 ---
 
@@ -63,39 +63,42 @@ My work and research interests span experimental physics, embedded systems, RF e
 
 **Founder & Technical Lead | NIT Rourkela**
 
-Founded and lead a multidisciplinary student initiative focused on satellite engineering, CanSat/CubeSat development, embedded electronics and scientific payload systems.
+A student-led engineering initiative dedicated to developing capabilities in satellite systems, CanSat/CubeSat architectures, scientific payloads and embedded hardware.
 
-- Coordinating a 64-member student initiative across multiple technical divisions.
-- Developing embedded payload prototypes and environmental sensing systems.
-- Working on satellite avionics, telemetry and hardware prototyping.
+- Established and lead a multidisciplinary initiative comprising 64 student members.
+- Coordinating technical development across satellite systems, avionics, payloads and embedded electronics.
+- Developing sensor-integrated payload prototypes and experimental telemetry systems.
+- Promoting practical engineering, hardware prototyping and collaborative research.
 
 **Technologies:** ESP32 · Embedded C · Sensors · LoRa · Electronics · CAD
 
 ### 🚁 Autonomous Self-Charging Drone
 
-An autonomous aerial robotics project focused on autonomous flight, precision landing, docking and automatic recharging.
+An autonomous aerial robotics system designed to demonstrate autonomous flight, precision landing, docking and automatic battery recharging.
 
-- Contributed to the development of an autonomous flight and docking system.
-- Participated in the ISRO Indian Robotics Challenge (IRoC), clearing Round 1.
+- Contributed to the development of an integrated autonomous flight and docking system.
+- Worked on the engineering aspects of autonomous navigation and hardware integration.
+- Successfully cleared Round 1 of the ISRO Indian Robotics Challenge (IRoC).
 
 **Focus:** Robotics · Embedded Systems · Control Systems · Autonomous Hardware
 
 ### 📡 SDR-Based Communication System
 
-Research project investigating real-time digital communication using Software-Defined Radio platforms.
+An experimental research project focused on implementing digital communication and signal processing using Software-Defined Radio platforms.
 
-- Working with ADALM-PLUTO SDR hardware.
-- Implementing digital modulation and signal processing workflows.
-- Developing an experimental BPSK-based transmission system.
+- Working with ADALM-PLUTO SDR hardware for experimental signal transmission and reception.
+- Developed initial waveform generation and hardware transmission validation.
+- Investigating BPSK modulation and digital communication workflows as part of an end-to-end transmission system.
 
 **Technologies:** MATLAB · Simulink · ADALM-PLUTO · DSP · SDR
 
 ### 💻 ReconOS — Command-Line OS Simulation
 
-A modular command-line operating system simulation developed in C.
+A modular command-line operating system simulation developed in C to explore systems programming and software architecture.
 
-- Implementing command parsing and modular program structure.
-- Exploring systems programming and command-line interactions.
+- Implementing modular command parsing and execution workflows.
+- Exploring low-level programming concepts and structured software design.
+- Developing a lightweight command-line environment for systems programming experimentation.
 
 **Technologies:** C · Linux · Systems Programming
 
@@ -103,29 +106,31 @@ A modular command-line operating system simulation developed in C.
 
 ## Research & Academic Activities
 
-- **Asteroseismology:** Undergraduate research exposure to stellar pulsation mechanisms and oscillation modes.
-- **Aditya-L1 Data Analysis:** Worked with SWIS particle data for solar activity and CME detection.
-- **Semiconductor Fabrication:** Training exposure to photolithography, thin-film deposition and semiconductor processing through ASMDT-2026 and IISc CeNSE workshop activities.
-- **Space Technology:** Participated in satellite engineering initiatives and national-level space technology competitions.
+- **Asteroseismology:** Studied stellar pulsation mechanisms, oscillation modes and the physical processes governing stellar variability through an undergraduate research project.
+- **Aditya-L1 Data Analysis:** Investigated SWIS particle measurements from India's Aditya-L1 mission for solar activity and Halo CME detection using statistical analysis and machine learning.
+- **Semiconductor Fabrication:** Received training exposure to photolithography, thin-film deposition, semiconductor processing and device characterization through ASMDT-2026 and an IISc CeNSE workshop.
+- **Space Technology:** Participated in satellite engineering initiatives, aerospace-oriented prototyping and national-level space technology competitions.
 
 ---
 
 ## Current Research Direction
 
-I am particularly interested in exploring the relationship between fundamental physical phenomena and their implementation in engineered systems.
+My current academic interests focus on understanding how fundamental physical phenomena can be translated into engineered photonic and electronic systems.
 
-My developing research direction connects:
+I am particularly interested in investigating optical wave propagation, photonic circuit architectures, semiconductor technologies and the interaction between physical systems and computational hardware.
 
-**Fundamental Physics → Photonics → Electronic Hardware → Scientific Computing**
+My long-term research direction connects:
 
-Long-term interests include programmable photonic systems, hybrid optoelectronic computing, semiconductor technologies and advanced scientific instrumentation.
+**Fundamental Physics → Photonics → Electronic Hardware → Computational Systems**
 
-I am interested in research collaborations, experimental projects and opportunities to contribute to photonics and hardware research.
+I aim to develop deeper expertise in integrated photonics, programmable optical systems, hybrid optoelectronic computing and advanced scientific instrumentation.
+
+I welcome opportunities for research collaborations, experimental investigations and engineering projects in photonics, optoelectronics, semiconductor technologies and scientific hardware.
 
 ---
 
 <div align="center">
 
-*Exploring physical systems. Building engineering solutions. Advancing hardware technologies.*
+*Understanding physics. Engineering hardware. Exploring the future of photonic and electronic technologies.*
 
 </div>
